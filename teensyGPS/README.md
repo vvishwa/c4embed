@@ -1,2 +1,2 @@
-# c4embed
-Embedded systems for RT instrumentation, IoT and experiment
+This place is to document usage of teensy (currently 3.2) for building intrumenting GPS devices. The reason Teensy was chosen because of its power of using Coretex M4 processor and highly packaged on tiny board. 
+I use teensy shield to get same effect of breakout chip board, to provide some space for pins and wires to interface other module. In this case, I am using GPS module I bought on bangwood very cheap. This module uses, uBlox chip but due to antena size it appears much bigger with increased accuracy to best of my belief.
